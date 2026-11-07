@@ -1,0 +1,4 @@
+FACTURE (exemple imaginaire)
+Fournisseur : Café des Halles
+Date : 09/10/2026
+Total TTC : 24,50 EUR

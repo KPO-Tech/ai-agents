@@ -9,7 +9,7 @@ Les projets d'agents IA des vidéos de la chaîne YouTube **KPO-TECH**.
 
 | Projet | Vidéo | Ce qu'il montre |
 |---|---|---|
-| *(le premier arrive avec la vidéo « Créer un agent IA de zéro »)* | | |
+| [`invoice-agent`](invoice-agent) | Créer un agent IA de zéro (Python) | Un agent qui trie des factures : boucle, outils, validation humaine, tests |
 
 ## Comment utiliser un projet
 

@@ -1,0 +1,4 @@
+FACTURE (exemple imaginaire)
+Fournisseur : Électricité Lumina
+Date : 03/10/2026
+Total TTC : 142,80 EUR

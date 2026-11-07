@@ -1,0 +1,5 @@
+FACTURE (exemple imaginaire)
+Fournisseur : Cabinet Martin Conseil
+Date : 07/10/2026
+Prestation : mission d'audit
+Total TTC : 1 850,00 EUR
