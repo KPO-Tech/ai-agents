@@ -34,4 +34,4 @@ Voici le résultat du tri de la boîte de réception :
 | facture_005.txt | Atelier Moreau | — | — | 🚩 **Signalée** : montant illisible (scan abîmé), non classée |
 
 **Résumé :** 3 factures classées sur 5. La facture_003 (1 850 €) a été refusée lors de la classification et attend la validation humaine ; la facture_005 ne peut pas être traitée car son montant est illisible — elle nécessite un nouveau scan ou une vérification manuelle.
-Journal : D:\Documents\PROJECTS\Videos\youtube\agent-de-zero\agent\logs\run-20261107-003723.jsonl
+Journal : logs/run-20261107-003723.jsonl

@@ -27,4 +27,4 @@
 
 [step_limit] en 12 étapes
 Arrêt : limite d'étapes atteinte.
-Journal : D:\Documents\PROJECTS\Videos\youtube\agent-de-zero\agent\logs\run-20261107-003536.jsonl
+Journal : logs/run-20261107-003536.jsonl
